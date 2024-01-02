@@ -1,0 +1,41 @@
+.main{
+    box-sizing: border-box;
+    display: flex;
+    background-color: blueviolet;
+    justify-content: center;
+
+}
+
+.tarek{
+    width: 250px;
+    padding: 5px;
+
+}
+
+.tarek1{
+    width: 250px;
+
+}
+
+.tarek2{
+    background-color: rgb(255, 67, 67);
+    padding: 15px;
+   
+}
+
+.title{
+    text-align: center;
+    font-family: fantasy;
+
+}
+
+.dres{
+    text-align: justify;
+    color: rgb(255, 255, 255);
+
+}
+
+.tarek:hover{
+     box-shadow: 5px 15px 20px rgb(21, 255, 0);
+
+}
